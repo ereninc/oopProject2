@@ -1,0 +1,7 @@
+C:\Users\Asus\Desktop\B171210308-NDP-Odev2\B171210308-NDP-Odev2\obj\Debug\B171210308-NDP-Odev2.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\B171210308-NDP-Odev2\B171210308-NDP-Odev2\obj\Debug\B171210308-NDP-Odev2.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\B171210308-NDP-Odev2\B171210308-NDP-Odev2\bin\Debug\B171210308-NDP-Odev2.exe.config
+C:\Users\Asus\Desktop\B171210308-NDP-Odev2\B171210308-NDP-Odev2\bin\Debug\B171210308-NDP-Odev2.exe
+C:\Users\Asus\Desktop\B171210308-NDP-Odev2\B171210308-NDP-Odev2\bin\Debug\B171210308-NDP-Odev2.pdb
+C:\Users\Asus\Desktop\B171210308-NDP-Odev2\B171210308-NDP-Odev2\obj\Debug\B171210308-NDP-Odev2.exe
+C:\Users\Asus\Desktop\B171210308-NDP-Odev2\B171210308-NDP-Odev2\obj\Debug\B171210308-NDP-Odev2.pdb
